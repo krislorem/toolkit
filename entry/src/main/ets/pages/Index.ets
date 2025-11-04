@@ -1,8 +1,7 @@
-
 @Entry
 @Component
 struct Index {
-  @State message: string = '@ssy/toolkit_core';
+  @State message: string = '@krislorem/toolkit_core';
 
   build() {
     Column() {
