@@ -263,6 +263,7 @@ hvigor collectCoverage
 - 完整的 JSDoc 注释
 - 单元测试覆盖率 > 80%
 - 遵循 HarmonyOS 开发规范
+- 避免使用第三方库
 
 ## 许可证
 
