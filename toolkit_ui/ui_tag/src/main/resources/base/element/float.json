@@ -1,8 +1,64 @@
 {
   "float": [
     {
-      "name": "page_text_font_size",
-      "value": "50fp"
+      "name": "large_height",
+      "value": "24vp"
+    },
+    {
+      "name": "default_height",
+      "value": "20vp"
+    },
+    {
+      "name": "small_height",
+      "value": "16vp"
+    },
+    {
+      "name": "large_top_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "default_top_padding",
+      "value": "3vp"
+    },
+    {
+      "name": "small_top_padding",
+      "value": "2vp"
+    },
+    {
+      "name": "large_left_padding",
+      "value": "8vp"
+    },
+    {
+      "name": "default_left_padding",
+      "value": "6vp"
+    },
+    {
+      "name": "small_left_padding",
+      "value": "5vp"
+    },
+    {
+      "name": "border_width",
+      "value": "1vp"
+    },
+    {
+      "name": "small_padding",
+      "value": "8vp"
+    },
+    {
+      "name": "default_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "default_margin",
+      "value": "8vp"
+    },
+    {
+      "name": "tag_opacity",
+      "value": "1vp"
+    },
+    {
+      "name": "default_max_width",
+      "value": "152vp"
     }
   ]
 }

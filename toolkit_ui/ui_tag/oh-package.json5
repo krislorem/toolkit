@@ -1,9 +1,13 @@
 {
-  "name": "ui_tag",
+  "name": "@krislorem/ui-tag",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "ui-tag 标签组件用于展示不同类型的标签，可点击切换选中、不选中的状态。",
   "main": "Index.ets",
-  "author": "",
-  "license": "Apache-2.0",
-  "dependencies": {}
+  "author": "krislorem",
+  "license": "ISC",
+  "keywords": [
+    "标签组件",
+    "标签状态",
+    "Tag",
+  ]
 }
