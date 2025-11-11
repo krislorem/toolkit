@@ -70,6 +70,16 @@ struct Index {
           .onClick(() => {
             this.getUIContext().getRouter().pushUrl({ url: 'pages/TagDemoPage' });
           })
+
+        Button('折叠面板组件')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/CollapseCommonPage' });
+          })
       }
       .width('100%')
       .height('100%')

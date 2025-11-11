@@ -1,9 +1,14 @@
 {
-  "name": "ui_fab",
+  "name": "@krislorem/ui-fab",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "ui-fab 是一款悬浮按钮组件，点击可展开一个或多个按钮菜单。",
   "main": "Index.ets",
-  "author": "",
-  "license": "Apache-2.0",
-  "dependencies": {}
+  "author": "krislorem",
+  "license": "ISC",
+  "keywords": [
+    "悬浮按钮",
+    "按钮菜单",
+    "Button",
+    "FloatingButton",
+  ]
 }

@@ -10,6 +10,7 @@
     "@krislorem/ui-base": "^1.0.0",
     "@krislorem/ui-swiper": "^1.0.0",
     "@krislorem/ui-tag": "^1.0.0",
+    "@krislorem/ui-collapse": "^1.0.0",
   }
 }
 
