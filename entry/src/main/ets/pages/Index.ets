@@ -100,6 +100,16 @@ struct Index {
           .onClick(() => {
             this.getUIContext().getRouter().pushUrl({ url: 'pages/NoticeBarSample' });
           })
+
+        Button('滚动吸顶组件')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/UIStickyScrollDemo' });
+          })
       }
       .width('100%')
       .height('100%')

@@ -8,6 +8,7 @@
     "pages/TagDemoPage",
     "pages/CollapseCommonPage",
     "pages/FabDemoPage",
-    "pages/NoticeBarSample"
+    "pages/NoticeBarSample",
+    "pages/UIStickyScrollDemo"
   ]
 }
