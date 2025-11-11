@@ -1,9 +1,15 @@
 {
-  "name": "ui_notice_bar",
+  "name": "@krislorem/ui-notice-bar",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "ui-notice-bar 是一款通告栏组件，支持滚动显示数据、修改颜色等功能。开发者可根据需要，在多种容器内按需选择。",
   "main": "Index.ets",
-  "author": "",
-  "license": "Apache-2.0",
-  "dependencies": {}
+  "author": "krislorem",
+  "license": "ISC",
+  "keywords": [
+    "通告栏组件",
+    "通知栏组件",
+    "NoticeBar",
+    "滚动公告",
+    "滚动通知"
+  ]
 }

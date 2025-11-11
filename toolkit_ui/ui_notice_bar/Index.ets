@@ -1,0 +1,1 @@
+export { UINoticeBar } from './src/main/ets/components/UINoticeBar'
