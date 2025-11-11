@@ -3,6 +3,8 @@
     "pages/Index",
     "pages/ToolkitExamplePage",
     "pages/LightThemePage",
-    "pages/DarkThemePage"
+    "pages/DarkThemePage",
+    "pages/SwiperDemoPage",
+    "pages/TagDemoPage"
   ]
 }

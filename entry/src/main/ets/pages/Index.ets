@@ -50,6 +50,26 @@ struct Index {
           .onClick(() => {
             this.getUIContext().getRouter().pushUrl({ url: 'pages/DarkThemePage' });
           })
+
+        Button('多级轮播图组件')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/SwiperDemoPage' });
+          })
+
+        Button('标签组件')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/TagDemoPage' });
+          })
       }
       .width('100%')
       .height('100%')
