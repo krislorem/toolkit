@@ -1,9 +1,14 @@
 {
-  "name": "ui_collapse",
+  "name": "@krislorem/ui-collapse",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "ui-collapse 是一款折叠面板组件，支持显示过长文本，支持修改图标、手风琴效果等功能。",
   "main": "Index.ets",
-  "author": "",
-  "license": "Apache-2.0",
-  "dependencies": {}
+  "author": "krislorem",
+  "license": "ISC",
+  "keywords": [
+    "折叠面板组件",
+    "文本折叠",
+    "collapse",
+    "手风琴效果"
+  ]
 }
