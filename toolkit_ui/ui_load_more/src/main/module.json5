@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "ui_load_more",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}

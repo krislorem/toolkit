@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "ui_fab",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}

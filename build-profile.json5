@@ -53,6 +53,46 @@
     {
       "name": "ui_tag",
       "srcPath": "./toolkit_ui/ui_tag",
+    },
+    {
+      "name": "ui_calendar_picker",
+      "srcPath": "./toolkit_ui/ui_calendar_picker",
+    },
+    {
+      "name": "ui_cascader",
+      "srcPath": "./toolkit_ui/ui_cascader",
+    },
+    {
+      "name": "ui_category",
+      "srcPath": "./toolkit_ui/ui_category",
+    },
+    {
+      "name": "ui_collapse",
+      "srcPath": "./toolkit_ui/ui_collapse",
+    },
+    {
+      "name": "ui_fab",
+      "srcPath": "./toolkit_ui/ui_fab",
+    },
+    {
+      "name": "ui_file_picker",
+      "srcPath": "./toolkit_ui/ui_file_picker",
+    },
+    {
+      "name": "ui_load_more",
+      "srcPath": "./toolkit_ui/ui_load_more",
+    },
+    {
+      "name": "ui_notice_bar",
+      "srcPath": "./toolkit_ui/ui_notice_bar",
+    },
+    {
+      "name": "ui_sticky_scroll",
+      "srcPath": "./toolkit_ui/ui_sticky_scroll",
+    },
+    {
+      "name": "ui_video",
+      "srcPath": "./toolkit_ui/ui_video",
     }
   ]
 }

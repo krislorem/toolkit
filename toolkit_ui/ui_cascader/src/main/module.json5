@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "ui_cascader",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}

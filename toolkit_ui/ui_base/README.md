@@ -1,26 +1,4 @@
-# ui-base
-
-## 1. 简介
-
-ui-base 是 UI 组件的基础能力，提供了窗口管理、沉浸式布局、安全区避让等核心功能。
-
-## 2. 快速开始
-
-### 2.1. 安装
-
-```bash
-ohpm install @krislorem/ui-base
-```
-
-### 2.2. 基础使用
-
-在应用的入口文件 EntryAbility.ets 中进行初始化，例如：
-
-```ts
-import { window } from '@kit.ArkUI';
-import { UIBase } from '@krislorem/ui-base';
-
-onWindowStageCreate(windowStage:window.WindowStage):void {
+REindowStage:window.WindowStage):void {
   // 基础初始化
   UIBase.init(windowStage);
 
