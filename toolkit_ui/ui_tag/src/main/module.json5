@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "ui_tag",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}

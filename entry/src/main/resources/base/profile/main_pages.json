@@ -1,6 +1,8 @@
 {
   "src": [
     "pages/Index",
-    "pages/ToolkitExamplePage"
+    "pages/ToolkitExamplePage",
+    "pages/LightThemePage",
+    "pages/DarkThemePage"
   ]
 }

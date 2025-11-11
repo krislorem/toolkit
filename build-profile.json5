@@ -41,6 +41,18 @@
     {
       "name": "toolkit_core",
       "srcPath": "./toolkit_core",
+    },
+    {
+      "name": "ui_base",
+      "srcPath": "./toolkit_ui/ui_base"
+    },
+    {
+      "name": "ui_swiper",
+      "srcPath": "./toolkit_ui/ui_swiper",
+    },
+    {
+      "name": "ui_tag",
+      "srcPath": "./toolkit_ui/ui_tag",
     }
   ]
 }

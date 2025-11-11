@@ -6,7 +6,8 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@krislorem/toolkit_core": "file:../toolkit_core"
+    "@krislorem/toolkit_core": "^1.0.1",
+    "@krislorem/ui-base": "^1.0.0"
   }
 }
 

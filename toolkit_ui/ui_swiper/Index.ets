@@ -1,0 +1,1 @@
+export { UISwiper } from './src/main/ets/components/UISwiper'

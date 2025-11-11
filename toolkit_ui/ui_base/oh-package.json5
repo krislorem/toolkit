@@ -1,0 +1,16 @@
+{
+  "name": "@krislorem/ui-base",
+  "version": "1.0.0",
+  "description": "鸿蒙 UI 基础库，包含窗口布局及操作、端点系统、网格布局配置、全屏组件等",
+  "keywords": [
+    "HarmonyOS",
+    "UI",
+    "HarmonyUI"
+  ],
+  "main": "Index.ets",
+  "author": "krislorem",
+  "license": "ISC",
+  "dependencies": {
+    "@krislorem/toolkit_core": "^1.0.1"
+  },
+}

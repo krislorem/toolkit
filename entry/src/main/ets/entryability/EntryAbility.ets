@@ -1,6 +1,7 @@
 import { AbilityConstant, ConfigurationConstant, UIAbility, Want } from '@kit.AbilityKit';
 import { hilog } from '@kit.PerformanceAnalysisKit';
 import { window } from '@kit.ArkUI';
+import { UIBase } from '@krislorem/ui-base';
 
 const DOMAIN = 0x0000;
 
@@ -21,6 +22,9 @@ export default class EntryAbility extends UIAbility {
   onWindowStageCreate(windowStage: window.WindowStage): void {
     // Main window is created, set main page for this ability
     hilog.info(DOMAIN, 'testTag', '%{public}s', 'Ability onWindowStageCreate');
+
+    // 初始化为沉浸式
+    UIBase.init(windowStage, { immersive: true });
 
     windowStage.loadContent('pages/Index', (err) => {
       if (err.code) {

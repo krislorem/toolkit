@@ -24,6 +24,8 @@ export { DeviceInfo, type DeviceFullInfo } from './src/main/ets/utils/DeviceInfo
 
 export { JsonConverter } from './src/main/ets/utils/JsonConverter';
 
+export { Logger } from './src/main/ets/utils/Logger';
+
 // 常量导出
 export { CommonConstants } from './src/main/ets/constants/CommonConstants';
 
