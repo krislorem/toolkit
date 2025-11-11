@@ -80,6 +80,16 @@ struct Index {
           .onClick(() => {
             this.getUIContext().getRouter().pushUrl({ url: 'pages/CollapseCommonPage' });
           })
+
+        Button('悬浮按钮组件')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/FabDemoPage' });
+          })
       }
       .width('100%')
       .height('100%')

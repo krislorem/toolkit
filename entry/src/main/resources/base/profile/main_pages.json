@@ -6,6 +6,7 @@
     "pages/DarkThemePage",
     "pages/SwiperDemoPage",
     "pages/TagDemoPage",
-    "pages/CollapseCommonPage"
+    "pages/CollapseCommonPage",
+    "pages/FabDemoPage"
   ]
 }
