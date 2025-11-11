@@ -1,0 +1,21 @@
+{
+  "color": [
+
+    {
+      "name": "tab_start_color",
+      "value": "#19000000"
+    },
+    {
+      "name": "tab_end_color",
+      "value": "#E5000000"
+    },
+    {
+      "name": "tab_bg_color",
+      "value": "#000000"
+    },
+    {
+      "name": "tab_arrow_color",
+      "value": "#F1F3F5"
+    }
+  ]
+}

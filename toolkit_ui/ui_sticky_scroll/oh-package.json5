@@ -1,9 +1,19 @@
 {
-  "name": "ui_sticky_scroll",
+  "name": "@krislorem/ui-sticky-scroll",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "ui-sticky-scroll 是一款滚动吸顶组件，支持滚动吸顶、自定义多种样式风格",
   "main": "Index.ets",
-  "author": "",
-  "license": "Apache-2.0",
-  "dependencies": {}
+  "author": "krislorem",
+  "license": "ISC",
+  "keywords": [
+    "滚动吸顶组件",
+    "滚动置顶",
+    "滑动吸顶",
+    "滑动置顶",
+    "ScrollSticky"
+  ],
+  "dependencies": {
+    "@krislorem/toolkit_core": "^1.0.1",
+    "@krislorem/ui-base": "^1.2.0",
+  }
 }

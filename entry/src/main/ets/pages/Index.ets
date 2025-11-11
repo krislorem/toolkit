@@ -90,6 +90,16 @@ struct Index {
           .onClick(() => {
             this.getUIContext().getRouter().pushUrl({ url: 'pages/FabDemoPage' });
           })
+
+        Button('通告栏组件通告栏组件')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/NoticeBarSample' });
+          })
       }
       .width('100%')
       .height('100%')

@@ -7,6 +7,7 @@
     "pages/SwiperDemoPage",
     "pages/TagDemoPage",
     "pages/CollapseCommonPage",
-    "pages/FabDemoPage"
+    "pages/FabDemoPage",
+    "pages/NoticeBarSample"
   ]
 }
