@@ -16,6 +16,10 @@
     "pages/CalendarPickerSample4",
     "pages/CalendarPickerSample5",
     "pages/CalendarPickerSample6",
-    "pages/LoadMoreDemo"
+    "pages/LoadMoreDemo",
+    "pages/FilePickerSample1",
+    "pages/FilePickerSample2",
+    "pages/FilePickerSample3",
+    "pages/UIALLDEMO"
   ]
 }

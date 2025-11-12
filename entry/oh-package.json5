@@ -16,6 +16,8 @@
     "@krislorem/ui-sticky-scroll": "^1.0.0",
     "@krislorem/ui-calendar-picker": "^1.0.0",
     "@krislorem/ui-load-more": "^1.0.0",
+    "@krislorem/ui-file-picker": "^1.0.0",
+    "@krislorem/ui-all": "^1.0.0",
   }
 }
 

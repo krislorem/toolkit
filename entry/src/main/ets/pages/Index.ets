@@ -180,6 +180,46 @@ struct Index {
           .onClick(() => {
             this.getUIContext().getRouter().pushUrl({ url: 'pages/LoadMoreDemo' });
           })
+
+        Button('文件选择上传组件1')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/FilePickerSample1' });
+          })
+
+        Button('文件选择上传组件2')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/FilePickerSample2' });
+          })
+
+        Button('文件选择上传组件3')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/FilePickerSample3' });
+          })
+
+        Button('组件整合demo')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/UIALLDEMO' });
+          })
       }
       .width('100%')
       .justifyContent(FlexAlign.Center)
