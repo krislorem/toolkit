@@ -93,6 +93,10 @@
     {
       "name": "ui_video",
       "srcPath": "./toolkit_ui/ui_video",
+    },
+    {
+      "name": "ui_all",
+      "srcPath": "./toolkit_ui/ui_all",
     }
   ]
 }

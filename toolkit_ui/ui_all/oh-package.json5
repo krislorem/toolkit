@@ -1,0 +1,20 @@
+{
+  "name": "@krislorem/ui-all",
+  "version": "1.0.0",
+  "description": "ui-all 整合了所有ui组件",
+  "keywords": [
+    "All",
+  ],
+  "main": "Index.ets",
+  "author": "krislorem",
+  "license": "ISC",
+  "dependencies": {
+    "@krislorem/ui-base": "file:../ui_base",
+    "@krislorem/ui-swiper": "file:../ui_swiper",
+    "@krislorem/ui-tag": "file:../ui_tag",
+    "@krislorem/ui-collapse": "file:../ui_collapse",
+    "@krislorem/ui-tag": "file:../ui_tag",
+    "@krislorem/ui-notice-bar": "file:../ui_notice_bar",
+    "@krislorem/ui-sticky-scroll": "file:../ui_sticky_scroll",
+  }
+}
