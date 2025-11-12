@@ -110,11 +110,75 @@ struct Index {
           .onClick(() => {
             this.getUIContext().getRouter().pushUrl({ url: 'pages/UIStickyScrollDemo' });
           })
+
+        Button('日历选择器UI组件1')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/CalendarPickerSample1' });
+          })
+
+        Button('日历选择器UI组件2')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/CalendarPickerSample2' });
+          })
+
+        Button('日历选择器UI组件3')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/CalendarPickerSample3' });
+          })
+
+        Button('日历选择器UI组件4')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/CalendarPickerSample4' });
+          })
+
+        Button('日历选择器UI组件5')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/CalendarPickerSample5' });
+          })
+
+        Button('日历选择器UI组件6')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/CalendarPickerSample6' });
+          })
       }
       .width('100%')
-      .height('100%')
       .justifyContent(FlexAlign.Center)
       .backgroundColor('#F2F2F7')
     }
+    .edgeEffect(EdgeEffect.Spring)
+    .friction(0.6)
+    .backgroundColor('#DCDCDC')
+    .scrollBar(BarState.Off)
+    .width('100%')
   }
 }

@@ -9,6 +9,12 @@
     "pages/CollapseCommonPage",
     "pages/FabDemoPage",
     "pages/NoticeBarSample",
-    "pages/UIStickyScrollDemo"
+    "pages/UIStickyScrollDemo",
+    "pages/CalendarPickerSample1",
+    "pages/CalendarPickerSample2",
+    "pages/CalendarPickerSample3",
+    "pages/CalendarPickerSample4",
+    "pages/CalendarPickerSample5",
+    "pages/CalendarPickerSample6"
   ]
 }
