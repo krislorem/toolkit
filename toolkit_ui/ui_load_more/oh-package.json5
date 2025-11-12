@@ -1,9 +1,14 @@
 {
-  "name": "ui_load_more",
+  "name": "@krislorem/ui-load-more",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "ui-load-more 是一款加载更多组件。包括加载前、加载中和没有数据三种状态，支持跟随系统语言或特定语言类型。",
+  "keywords": [
+    '加载组件',
+    '加载更多',
+    '刷新组件',
+    'LoadMore'
+  ],
   "main": "Index.ets",
-  "author": "",
-  "license": "Apache-2.0",
-  "dependencies": {}
+  "author": "krislorem",
+  "license": "ISC"
 }

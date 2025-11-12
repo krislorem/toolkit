@@ -1,8 +1,29 @@
 {
   "string": [
     {
-      "name": "page_show",
-      "value": "page from package"
+      "name": "ui_load_more",
+      "value": "1.0.0"
+    },
+    {
+      "name": "more_text",
+      "value": "Swipe up to load more",
+      "attr": {
+        "priority": "translate"
+      }
+    },
+    {
+      "name": "loading_text",
+      "value": "Loading…",
+      "attr": {
+        "priority": "LT"
+      }
+    },
+    {
+      "name": "noMore_text",
+      "value": "No more data",
+      "attr": {
+        "priority": "LT"
+      }
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "string":[
+    {
+      "name":"more_text",
+      "value":"上拉加载更多",
+      "attr":{
+        "priority":"translate"
+      }
+    },
+    {
+      "name":"loading_text",
+      "value":"正在加载",
+      "attr":{
+        "priority":"translate"
+      }
+    },
+    {
+      "name":"noMore_text",
+      "value":"没有更多数据了",
+      "attr":{
+        "priority":"translate"
+      }
+    }
+  ]
+}
