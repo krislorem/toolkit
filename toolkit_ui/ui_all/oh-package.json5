@@ -16,5 +16,7 @@
     "@krislorem/ui-tag": "file:../ui_tag",
     "@krislorem/ui-notice-bar": "file:../ui_notice_bar",
     "@krislorem/ui-sticky-scroll": "file:../ui_sticky_scroll",
+    "@krislorem/ui-calendar-picker": "file:../ui_calendar_picker",
+    "@krislorem/ui-load-more": "file:../ui_load_more",
   }
 }

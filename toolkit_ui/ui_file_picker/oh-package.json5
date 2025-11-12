@@ -1,9 +1,19 @@
 {
-  "name": "ui_file_picker",
+  "name": "@krislorem/ui-file-picker",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "ui-file-picker 是一个文件选择上传组件，支持图片、视频、音频、压缩包等所有文件类型的选取上传，以及支持启动自动上传到云存储。",
+  "keywords": [
+    "文件上传",
+    "文件选择",
+    "云存储",
+    "大图预览",
+    "FilePicker",
+  ],
   "main": "Index.ets",
-  "author": "",
-  "license": "Apache-2.0",
-  "dependencies": {}
+  "author": "krislorem",
+  "license": "ISC",
+  "dependencies": {
+    "@krislorem/toolkit_core": "^1.0.1",
+    "@krislorem/ui-base": "^1.0.0",
+  }
 }

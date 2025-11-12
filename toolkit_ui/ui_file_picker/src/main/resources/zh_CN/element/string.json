@@ -1,0 +1,53 @@
+{
+    "string":[
+        {
+            "name":"select_img",
+            "value":"添加图片",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_btn_text",
+            "value":"上传文件",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_btn_sub_text",
+            "value":"支持上传图片、视频、音频、文本、压缩包等",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"select_files_num_tip",
+            "value":"%1$s/%2$s",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"upload_fail",
+            "value":"上传失败",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"size_kb",
+            "value":"%s KB",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"size_mb",
+            "value":"%s MB",
+            "attr":{
+                "priority":"translate"
+            }
+        }
+    ]
+}

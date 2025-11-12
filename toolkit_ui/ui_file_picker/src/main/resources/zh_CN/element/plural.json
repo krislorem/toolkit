@@ -1,0 +1,16 @@
+{
+    "plural":[
+        {
+            "name":"select_files_limit_tip",
+            "value":[
+                {
+                    "quantity":"other",
+                    "value":"最多选择 %d 个文件",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

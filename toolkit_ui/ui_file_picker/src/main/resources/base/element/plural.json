@@ -1,0 +1,23 @@
+{
+    "plural":[
+        {
+            "name":"select_files_limit_tip",
+            "value":[
+                {
+                    "quantity":"one",
+                    "value":"Select up to %d item",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                },
+                {
+                    "quantity":"other",
+                    "value":"Select up to %d items",
+                    "attr":{
+                        "priority":"translate"
+                    }
+                }
+            ]
+        }
+    ]
+}

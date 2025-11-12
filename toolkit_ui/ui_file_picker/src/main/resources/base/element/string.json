@@ -1,8 +1,57 @@
 {
   "string": [
     {
-      "name": "page_show",
-      "value": "page from package"
+      "name": "i_file_picker",
+      "value": "1.0.0"
+    },
+    {
+      "name": "select_img",
+      "value": "Add",
+      "attr": {
+        "priority": "LT"
+      }
+    },
+    {
+      "name": "select_btn_text",
+      "value": "Upload",
+      "attr": {
+        "priority": "LT"
+      }
+    },
+    {
+      "name": "select_btn_sub_text",
+      "value": "Upload images, videos, audio, text files, or archives.",
+      "attr": {
+        "priority": "LT"
+      }
+    },
+    {
+      "name": "select_files_num_tip",
+      "value": "%1$s/%2$s",
+      "attr": {
+        "priority": "translate"
+      }
+    },
+    {
+      "name": "upload_fail",
+      "value": "Upload failed",
+      "attr": {
+        "priority": "LT"
+      }
+    },
+    {
+      "name": "size_kb",
+      "value": "%s KB",
+      "attr": {
+        "priority": "LT"
+      }
+    },
+    {
+      "name": "size_mb",
+      "value": "%s MB",
+      "attr": {
+        "priority": "LT"
+      }
     }
   ]
 }
