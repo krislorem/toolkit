@@ -170,6 +170,16 @@ struct Index {
           .onClick(() => {
             this.getUIContext().getRouter().pushUrl({ url: 'pages/CalendarPickerSample6' });
           })
+
+        Button('加载组件')
+          .fontSize(17)
+          .width(200)
+          .height(48)
+          .borderRadius(24)
+          .margin({ bottom: 20 })
+          .onClick(() => {
+            this.getUIContext().getRouter().pushUrl({ url: 'pages/LoadMoreDemo' });
+          })
       }
       .width('100%')
       .justifyContent(FlexAlign.Center)
